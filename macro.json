@@ -1,6 +1,1 @@
-{
-  "date": "2026-11-16",
-  "cape": 40.5,
-  "capeAvg": 27.5,
-  "note": "Valeur initiale indicative (CAPE Shiller S&P 500). Mise à jour quotidienne automatique."
-}
+{"date":"2026-11-17","cape":{"v":39.4,"d":"2026-11-01"},"capeAvg":27.5,"peEuAvg":14.5,"sources":"MacroRadar/FRED (Shiller), ChartRow"}
